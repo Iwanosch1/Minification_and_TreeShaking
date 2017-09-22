@@ -7,6 +7,6 @@ Für Minification (eine von mehreren Möglichkeiten) zunächst noch minifier ins
 Anschließend kann die jeweilige Datei optimiert werden:
 "minify [--output path/to/put/file] path/to/file"
 
-In diesem Branch gibt es eine Datei "Messzeiten.txt" in welcher die Ladezeiten einer website mit einer Datei und ihrer Optimierung vermerkt ist.
+In diesem Branch gibt es eine Datei "Messzeiten.txt" in welcher die Ladezeiten einer Website mit einer Datei wo die Zahl Pi mit 100 Nachkommastellen berechnet wurde und ihrer Optimierung vermerkt ist.
 
 (Angaben in [] sind optional)
